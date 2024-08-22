@@ -173,7 +173,7 @@ const Index = () => {
                   <div className="content">
                     <h5>2022</h5>
                     <p>
-                      主演电影《凉淙》 饰淙淙。
+                      主演电影《淙淙》 饰淙淙。
                     </p>
                   </div>
                 </div>
