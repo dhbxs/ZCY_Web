@@ -46,18 +46,18 @@ const DefaultFooter = () => {
                 {/*  src="assets/images/footer/lets-work.png"*/}
                 {/*  alt="Let's Work Man"*/}
                 {/*/>*/}
-                <h5>此网站为项目开源， 个人能力有限， 欢迎一起运营。</h5>
+                <h5>此网站源码搬运自Github开源ZCY_Web项目，在此对原开发者表示感谢！<br/> 个人能力有限， 欢迎一起运营。<br/>如有新素材请使用邮件投稿。</h5>
               </div>
               <div className="footer-contact-info wow fadeInUp delay-0-3s animated">
                 <a
                   className="theme-btn style-three"
-                  href="mailto:zcy_git_project@163.com"
+                  href="mailto:yao@mail.dhbxs.top"
                 >
-                  zcy_git_project@163.com<i className="far fa-arrow-right" />
+                  yao@mail.dhbxs.top<i className="far fa-arrow-right" />
                 </a>
                 <a
                   className="theme-btn style-three phone-number"
-                  href="https://github.com/ZhongChenYao/ZCY_Web"
+                  href="https://github.com/dhbxs/ZCY_Web"
                   target={"_blank"}
                 >
                   GitHub<i className="far fa-arrow-right" />
